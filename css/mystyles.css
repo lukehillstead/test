@@ -1,0 +1,9 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1,h2,h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a:hover{
+    color: rgb(3, 73, 76);
+}
